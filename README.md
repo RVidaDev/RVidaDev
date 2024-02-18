@@ -4,8 +4,8 @@
 
 <div align="center" style="margin-bottom: 20px;"> 
  <a href="https://github.com/RVidaDev">
- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RVidaDev&theme=dracula&mode=weekly" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=RVidaDev&show_icons=true&theme=dracula" />
+ <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RVidaDev&theme=dracula&mode=weekly" />
+ <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=RVidaDev&show_icons=true&theme=dracula" />
 </div>
 
 <div align="center"> 
