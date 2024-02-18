@@ -2,10 +2,17 @@
 
 <p align="center">Me formando pela FIAP e me tornando Full-Stack</p>
 
-<div display="inline-block" align="center" style="margin-bottom: 20px;"> 
- <a href="https://github.com/RVidaDev">
- <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RVidaDev&theme=dracula&mode=weekly" />
- <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=RVidaDev&show_icons=true&theme=dracula" />
+<div align="center" style="margin-bottom: 20px;"> 
+  <div style="display: inline-block;"> 
+    <a href="https://github.com/RVidaDev">
+      <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RVidaDev&theme=dracula&mode=weekly" />
+    </a>
+  </div>
+  <div style="display: inline-block;"> 
+    <a href="https://github.com/RVidaDev">
+      <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=RVidaDev&show_icons=true&theme=dracula" />
+    </a>
+  </div>
 </div>
 
 <div align="center"> 
