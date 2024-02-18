@@ -1,5 +1,7 @@
 
-<p align="center">Me formando na FIAP e evoluindo no full-stack</p>&nbsp;
+<h1 align="center">Rafael Vida</h1>&nbsp;
+
+<p align="center">Me formando pela FIAP e me tornando Full-Stack</p>
 
 <div  align="center" style="margin-bottom:100px">
  <a href="https://github.com/RVidaDev">
