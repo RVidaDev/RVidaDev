@@ -5,7 +5,6 @@
 <div display="inline-block" align="center" style="margin-bottom: 20px;"> 
  <a href="https://github.com/RVidaDev">
  <img width=51% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RVidaDev&theme=dracula&mode=weekly" />
- <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=RVidaDev&show_icons=true&theme=dracula" />
 </div>
 
 <div align="center"> 
