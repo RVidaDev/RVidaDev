@@ -1,6 +1,7 @@
 <h1 align="center">Rafael Vida</h1>&nbsp;
 
-<p align="center">Analísta de sistemas</p>
+<p align="center">Analísta de sistemas e estudante na FIAP</p>
+<p></p>
 
 <div display="inline-block" align="center" style="margin-bottom: 20px;"> 
  <a href="https://github.com/RVidaDev">
