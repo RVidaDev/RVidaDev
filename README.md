@@ -1,6 +1,6 @@
 <h1 align="center">Rafael Vida</h1>&nbsp;
 
-<p align="center">Me formando pela FIAP e me tornando Full-Stack</p>
+<p align="center">Analísta de sistemas</p>
 
 <div display="inline-block" align="center" style="margin-bottom: 20px;"> 
  <a href="https://github.com/RVidaDev">
